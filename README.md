@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Cristiano Ledur 
  <div>
   <a href="https://github.com/CristianoLedur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianoLedur&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoLedur&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=CristianoLedur&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoLedur&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
